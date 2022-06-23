@@ -17,5 +17,5 @@ body {
 
 body::before {
     content: '';
-    position: absolute;
+    position: absolute;top: ;
 }
