@@ -25,6 +25,7 @@ body::before {
     background: linear-gradient(#f00, #f0f);
     clip-path: circle(30% at right 70%);
 }
+
 body::before {
     content: '';
     position: absolute;
