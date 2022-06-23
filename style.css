@@ -15,4 +15,6 @@ body {
     background: #161623;
 }
 
-body::before {content: '';}
+body::before {
+    content: '';
+}
