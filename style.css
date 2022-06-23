@@ -26,7 +26,7 @@ body::before {
     clip-path: circle(30% at right 70%);
 }
 
-body::before {
+body::after {
     content: '';
     position: absolute;
     top: 0;
