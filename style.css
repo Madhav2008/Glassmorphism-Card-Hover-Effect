@@ -16,5 +16,6 @@ body {
 }
 
 body::before {
-    content: '';position: relative;
+    content: '';
+    position: relative;
 }
