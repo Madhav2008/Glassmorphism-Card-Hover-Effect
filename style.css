@@ -47,7 +47,7 @@ body::after {
     z-index: 1;
 }
 
-.container .card{
+.container .card {
     position: relative;
     display: flex;
     justify-content: center;
