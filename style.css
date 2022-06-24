@@ -39,5 +39,6 @@ body::after {
 
 .container {
     position: relative;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
