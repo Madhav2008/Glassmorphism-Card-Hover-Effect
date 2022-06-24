@@ -52,7 +52,7 @@ body::after {
     width: 280px;
     height: 400px;
     margin: 30px;
-    box-shadow: ;
+    box-shadow: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
