@@ -70,4 +70,6 @@ body::after {
     transition: 0.5s;
 }
 
-.container .card .content h2 {position: absolute;}
+.container .card .content h2 {
+    position: absolute;
+}
