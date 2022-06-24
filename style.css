@@ -75,5 +75,5 @@ body::after {
     top: -40px;
     right: 30px;
     font-size: 8em;
-    color: ;
+    color: rgba(255, 255, 255, 0.5);
 }
