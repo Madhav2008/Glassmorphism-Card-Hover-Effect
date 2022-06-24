@@ -96,5 +96,5 @@ body::after {
     display: inline-block;
     padding: 8px 20px;
     margin-top: 15px;
-    background: #fff;color: ;
+    background: #fff;color: #000;
 }
