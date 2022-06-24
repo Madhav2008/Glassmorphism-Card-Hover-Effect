@@ -50,6 +50,7 @@ body::after {
 .container .card {
     position: relative;
     width: 280px;
+    width: 280px;
     display: flex;
     justify-content: center;
     align-items: center;
