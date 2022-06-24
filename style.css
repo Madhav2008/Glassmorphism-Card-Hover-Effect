@@ -92,5 +92,5 @@ body::after {
 }
 
 .container .card .content a {
-    position: relative;
+    position: relative;display: ;
 }
