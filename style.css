@@ -99,5 +99,6 @@ body::after {
     background: #fff;
     color: #000;
     border-radius: 20px;
-    text-decoration: none;font-weight: 500;
+    text-decoration: none;
+    font-weight: 500;
 }
