@@ -70,7 +70,7 @@ body::after {
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-}.container .card .content{}
+}.container .card .content {}
 
 .container .card .content h2 {
     position: absolute;
