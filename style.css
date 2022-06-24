@@ -81,5 +81,5 @@ body::after {
 
 .container .card .content h3 {
     font-size: 1.8em;
-    color: #fff;
+    color: #fff;z-index: ;
 }
