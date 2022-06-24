@@ -38,5 +38,5 @@ body::after {
 }
 
 .container {
-    position: relative;
+    position: relative;display: ;
 }
