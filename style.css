@@ -73,5 +73,5 @@ body::after {
 .container .card .content h2 {
     position: absolute;
     top: -40px;
-    top: 30px;
+    right: 30px;
 }
