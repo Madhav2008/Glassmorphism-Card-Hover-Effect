@@ -79,4 +79,6 @@ body::after {
     pointer-events: none;
 }
 
-.container .card .content h3 {font-size: ;}
+.container .card .content h3 {
+    font-size: ;
+}
