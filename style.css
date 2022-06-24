@@ -37,4 +37,4 @@ body::after {
     clip-path: circle(20% at 10% 10%);
 }
 
-.container {}
+.container {position: relative;}
