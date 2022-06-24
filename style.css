@@ -91,4 +91,6 @@ body::after {
     font-weight: 300;
 }
 
-.container .card .content a {position: relative;}
+.container .card .content a {
+    position: relative;
+}
