@@ -54,7 +54,7 @@ body::after {
     margin: 30px;
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
     border-radius: 15px;
-    background: ;
+    background: rgba(red, green, blue, alpha);
     display: flex;
     justify-content: center;
     align-items: center;
