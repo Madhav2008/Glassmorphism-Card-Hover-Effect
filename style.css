@@ -65,5 +65,6 @@ body::after {
 }
 
 .container .card .content {
-    padding: 20px;text-align: ;
+    padding: 20px;
+    text-align: ;
 }
