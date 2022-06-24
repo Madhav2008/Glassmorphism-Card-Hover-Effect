@@ -94,5 +94,5 @@ body::after {
 .container .card .content a {
     position: relative;
     display: inline-block;
-    padding: ;
+    padding: 8px;
 }
