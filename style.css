@@ -64,4 +64,6 @@ body::after {
     backdrop-filter: blur(5px);
 }
 
-.container .card .content {padding: 20px;}
+.container .card .content {
+    padding: 20px;
+}
