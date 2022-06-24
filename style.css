@@ -73,7 +73,7 @@ body::after {
 }
 
 .container .card:hover .content {
-    transform: translateY(100px);
+    transform: translateY(0);
     opacity: 1;
 }
 
