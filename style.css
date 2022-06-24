@@ -48,7 +48,7 @@ body::after {
 }
 
 .container .card {
-    position: relative;
+    position: relative;width: ;
     display: flex;
     justify-content: center;
     align-items: center;
