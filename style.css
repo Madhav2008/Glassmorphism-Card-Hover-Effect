@@ -42,5 +42,6 @@ body::after {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 1200px;flex-wrap: wrap;
+    max-width: 1200px;
+    flex-wrap: wrap;
 }
