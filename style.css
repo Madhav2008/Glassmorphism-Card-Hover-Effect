@@ -67,7 +67,7 @@ body::after {
 .container .card .content {
     padding: 20px;
     text-align: center;
-    transform: translateY();
+    transform: translateY(100px);
     transition: 0.5s;
 }
 
