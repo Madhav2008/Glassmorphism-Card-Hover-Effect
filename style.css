@@ -88,5 +88,5 @@ body::after {
 .container .card .content p {
     font-size: 1.8em;
     color: #fff;
-    z-index: 1;
+    font-weight: 1;
 }
