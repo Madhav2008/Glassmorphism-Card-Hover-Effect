@@ -1,7 +1,6 @@
 var VanillaTilt = (function () {
   'use strict';
 
-
   class VanillaTilt {
     constructor(element, settings = {}) {
       if (!(element instanceof Node)) {
